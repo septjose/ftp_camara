@@ -1,0 +1,33 @@
+C:\Users\Bioxor\source\repos\WebCamSave\WebCamSave\bin\Debug\WebCamSave.exe.config
+C:\Users\Bioxor\source\repos\WebCamSave\WebCamSave\bin\Debug\WebCamSave.exe
+C:\Users\Bioxor\source\repos\WebCamSave\WebCamSave\bin\Debug\WebCamSave.pdb
+C:\Users\Bioxor\source\repos\WebCamSave\WebCamSave\bin\Debug\AForge.dll
+C:\Users\Bioxor\source\repos\WebCamSave\WebCamSave\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Bioxor\source\repos\WebCamSave\WebCamSave\bin\Debug\AForge.Video.dll
+C:\Users\Bioxor\source\repos\WebCamSave\WebCamSave\bin\Debug\AForge.xml
+C:\Users\Bioxor\source\repos\WebCamSave\WebCamSave\bin\Debug\AForge.Video.xml
+C:\Users\Bioxor\source\repos\WebCamSave\WebCamSave\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Bioxor\source\repos\WebCamSave\WebCamSave\obj\Debug\WebCamSave.csprojAssemblyReference.cache
+C:\Users\Bioxor\source\repos\WebCamSave\WebCamSave\obj\Debug\WebCamSave.Form1.resources
+C:\Users\Bioxor\source\repos\WebCamSave\WebCamSave\obj\Debug\WebCamSave.Properties.Resources.resources
+C:\Users\Bioxor\source\repos\WebCamSave\WebCamSave\obj\Debug\WebCamSave.csproj.GenerateResource.cache
+C:\Users\Bioxor\source\repos\WebCamSave\WebCamSave\obj\Debug\WebCamSave.csproj.CoreCompileInputs.cache
+C:\Users\Bioxor\source\repos\WebCamSave\WebCamSave\obj\Debug\WebCamSave.csproj.CopyComplete
+C:\Users\Bioxor\source\repos\WebCamSave\WebCamSave\obj\Debug\WebCamSave.exe
+C:\Users\Bioxor\source\repos\WebCamSave\WebCamSave\obj\Debug\WebCamSave.pdb
+C:\Users\José Alberto\Downloads\WebCamSave\WebCamSave\bin\Debug\WebCamSave.exe.config
+C:\Users\José Alberto\Downloads\WebCamSave\WebCamSave\bin\Debug\WebCamSave.exe
+C:\Users\José Alberto\Downloads\WebCamSave\WebCamSave\bin\Debug\WebCamSave.pdb
+C:\Users\José Alberto\Downloads\WebCamSave\WebCamSave\bin\Debug\AForge.dll
+C:\Users\José Alberto\Downloads\WebCamSave\WebCamSave\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\José Alberto\Downloads\WebCamSave\WebCamSave\bin\Debug\AForge.Video.dll
+C:\Users\José Alberto\Downloads\WebCamSave\WebCamSave\bin\Debug\AForge.xml
+C:\Users\José Alberto\Downloads\WebCamSave\WebCamSave\bin\Debug\AForge.Video.xml
+C:\Users\José Alberto\Downloads\WebCamSave\WebCamSave\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\José Alberto\Downloads\WebCamSave\WebCamSave\obj\Debug\WebCamSave.csprojAssemblyReference.cache
+C:\Users\José Alberto\Downloads\WebCamSave\WebCamSave\obj\Debug\WebCamSave.Form1.resources
+C:\Users\José Alberto\Downloads\WebCamSave\WebCamSave\obj\Debug\WebCamSave.Properties.Resources.resources
+C:\Users\José Alberto\Downloads\WebCamSave\WebCamSave\obj\Debug\WebCamSave.csproj.GenerateResource.cache
+C:\Users\José Alberto\Downloads\WebCamSave\WebCamSave\obj\Debug\WebCamSave.csproj.CopyComplete
+C:\Users\José Alberto\Downloads\WebCamSave\WebCamSave\obj\Debug\WebCamSave.exe
+C:\Users\José Alberto\Downloads\WebCamSave\WebCamSave\obj\Debug\WebCamSave.pdb
