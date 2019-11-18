@@ -31,3 +31,19 @@ C:\Users\José Alberto\Downloads\WebCamSave\WebCamSave\obj\Debug\WebCamSave.cspr
 C:\Users\José Alberto\Downloads\WebCamSave\WebCamSave\obj\Debug\WebCamSave.csproj.CopyComplete
 C:\Users\José Alberto\Downloads\WebCamSave\WebCamSave\obj\Debug\WebCamSave.exe
 C:\Users\José Alberto\Downloads\WebCamSave\WebCamSave\obj\Debug\WebCamSave.pdb
+E:\PortableGit\programs_c#\ftp_v1.0\ftp_camara\WebCamSave\bin\Debug\WebCamSave.exe.config
+E:\PortableGit\programs_c#\ftp_v1.0\ftp_camara\WebCamSave\bin\Debug\WebCamSave.exe
+E:\PortableGit\programs_c#\ftp_v1.0\ftp_camara\WebCamSave\bin\Debug\WebCamSave.pdb
+E:\PortableGit\programs_c#\ftp_v1.0\ftp_camara\WebCamSave\bin\Debug\AForge.dll
+E:\PortableGit\programs_c#\ftp_v1.0\ftp_camara\WebCamSave\bin\Debug\AForge.Video.DirectShow.dll
+E:\PortableGit\programs_c#\ftp_v1.0\ftp_camara\WebCamSave\bin\Debug\AForge.Video.dll
+E:\PortableGit\programs_c#\ftp_v1.0\ftp_camara\WebCamSave\bin\Debug\AForge.xml
+E:\PortableGit\programs_c#\ftp_v1.0\ftp_camara\WebCamSave\bin\Debug\AForge.Video.xml
+E:\PortableGit\programs_c#\ftp_v1.0\ftp_camara\WebCamSave\bin\Debug\AForge.Video.DirectShow.xml
+E:\PortableGit\programs_c#\ftp_v1.0\ftp_camara\WebCamSave\obj\Debug\WebCamSave.csprojAssemblyReference.cache
+E:\PortableGit\programs_c#\ftp_v1.0\ftp_camara\WebCamSave\obj\Debug\WebCamSave.Form1.resources
+E:\PortableGit\programs_c#\ftp_v1.0\ftp_camara\WebCamSave\obj\Debug\WebCamSave.Properties.Resources.resources
+E:\PortableGit\programs_c#\ftp_v1.0\ftp_camara\WebCamSave\obj\Debug\WebCamSave.csproj.GenerateResource.cache
+E:\PortableGit\programs_c#\ftp_v1.0\ftp_camara\WebCamSave\obj\Debug\WebCamSave.csproj.CopyComplete
+E:\PortableGit\programs_c#\ftp_v1.0\ftp_camara\WebCamSave\obj\Debug\WebCamSave.exe
+E:\PortableGit\programs_c#\ftp_v1.0\ftp_camara\WebCamSave\obj\Debug\WebCamSave.pdb

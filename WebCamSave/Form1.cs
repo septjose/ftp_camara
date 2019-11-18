@@ -189,7 +189,7 @@ namespace WebCamSave
 
         private void button4_Click(object sender, EventArgs e)
         {
-            bool descargo = downloadFile("ftp://jjdeveloperswdm.com/", "bonita_smile@jjdeveloperswdm.com", "bonita_smile", "yugi.jpg", @"C:\Users\José Alberto\Pictures\yugiohh\yugi.jpg", 10);
+            bool descargo = downloadFile("", "", "", "", "", 10);
             if(descargo)
             {
                 MessageBox.Show(":)");
@@ -198,6 +198,16 @@ namespace WebCamSave
             {
                 MessageBox.Show(":(");
             }
+        }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

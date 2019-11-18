@@ -41,10 +41,10 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(417, 28);
-            this.button1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button1.Location = new System.Drawing.Point(469, 35);
+            this.button1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(100, 28);
+            this.button1.Size = new System.Drawing.Size(112, 35);
             this.button1.TabIndex = 5;
             this.button1.Text = "Grabar";
             this.button1.UseVisualStyleBackColor = true;
@@ -52,10 +52,10 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Location = new System.Drawing.Point(29, 79);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pictureBox1.Location = new System.Drawing.Point(33, 99);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(488, 338);
+            this.pictureBox1.Size = new System.Drawing.Size(549, 422);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 4;
             this.pictureBox1.TabStop = false;
@@ -63,28 +63,30 @@
             // comboBox1
             // 
             this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(29, 31);
-            this.comboBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.comboBox1.Location = new System.Drawing.Point(33, 39);
+            this.comboBox1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(377, 24);
+            this.comboBox1.Size = new System.Drawing.Size(424, 28);
             this.comboBox1.TabIndex = 3;
+            this.comboBox1.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
             // 
             // pictureBox2
             // 
-            this.pictureBox2.Location = new System.Drawing.Point(548, 79);
-            this.pictureBox2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pictureBox2.Location = new System.Drawing.Point(616, 99);
+            this.pictureBox2.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(488, 338);
+            this.pictureBox2.Size = new System.Drawing.Size(549, 422);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox2.TabIndex = 6;
             this.pictureBox2.TabStop = false;
+            this.pictureBox2.Click += new System.EventHandler(this.pictureBox2_Click);
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(936, 31);
-            this.button2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button2.Location = new System.Drawing.Point(1053, 39);
+            this.button2.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(100, 28);
+            this.button2.Size = new System.Drawing.Size(112, 35);
             this.button2.TabIndex = 7;
             this.button2.Text = "Capturar";
             this.button2.UseVisualStyleBackColor = true;
@@ -92,9 +94,10 @@
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(283, 443);
+            this.button3.Location = new System.Drawing.Point(318, 554);
+            this.button3.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(147, 39);
+            this.button3.Size = new System.Drawing.Size(165, 49);
             this.button3.TabIndex = 8;
             this.button3.Text = "subir al servidor";
             this.button3.UseVisualStyleBackColor = true;
@@ -102,9 +105,10 @@
             // 
             // button4
             // 
-            this.button4.Location = new System.Drawing.Point(548, 443);
+            this.button4.Location = new System.Drawing.Point(616, 554);
+            this.button4.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(211, 44);
+            this.button4.Size = new System.Drawing.Size(237, 55);
             this.button4.TabIndex = 9;
             this.button4.Text = "descargar";
             this.button4.UseVisualStyleBackColor = true;
@@ -112,9 +116,9 @@
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1067, 515);
+            this.ClientSize = new System.Drawing.Size(1200, 644);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
@@ -122,7 +126,7 @@
             this.Controls.Add(this.button1);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.comboBox1);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "Form1";
             this.Text = "Form1";
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Form1_FormClosed);
